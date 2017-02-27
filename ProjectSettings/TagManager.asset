@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Fire
+  - Swim
+  - Beach
+  - Farm
+  - Build
+  - WaterPurifier
+  - RightWall
+  - LeftWall
+  - Barrel
+  - OceanFloor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Island
+  - Fire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1783861835
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 4071610053
+    locked: 0
+  - name: Player
+    uniqueID: 51358517
+    locked: 0
+  - name: Water
+    uniqueID: 2960978601
+    locked: 0
+  - name: UI
+    uniqueID: 3987080983
+    locked: 0
+  - name: ControlsPanel
+    uniqueID: 3379841323
+    locked: 0
